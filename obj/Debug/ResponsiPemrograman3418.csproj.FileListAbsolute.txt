@@ -1,0 +1,7 @@
+E:\kuliah s2\UTS 1\ResponsiPemrograman3418\ResponsiPemrograman3418\bin\Debug\ResponsiPemrograman3418.exe.config
+E:\kuliah s2\UTS 1\ResponsiPemrograman3418\ResponsiPemrograman3418\bin\Debug\ResponsiPemrograman3418.exe
+E:\kuliah s2\UTS 1\ResponsiPemrograman3418\ResponsiPemrograman3418\bin\Debug\ResponsiPemrograman3418.pdb
+E:\kuliah s2\UTS 1\ResponsiPemrograman3418\ResponsiPemrograman3418\obj\Debug\ResponsiPemrograman3418.csprojAssemblyReference.cache
+E:\kuliah s2\UTS 1\ResponsiPemrograman3418\ResponsiPemrograman3418\obj\Debug\ResponsiPemrograman3418.csproj.CoreCompileInputs.cache
+E:\kuliah s2\UTS 1\ResponsiPemrograman3418\ResponsiPemrograman3418\obj\Debug\ResponsiPemrograman3418.exe
+E:\kuliah s2\UTS 1\ResponsiPemrograman3418\ResponsiPemrograman3418\obj\Debug\ResponsiPemrograman3418.pdb
